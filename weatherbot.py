@@ -2,7 +2,7 @@ import discord
 import requests
 from discord.ext import commands
 
-Token = 'enter token here' # for the discord server
+Token = 'Njc3NjkyNzMyODYwMjY4NTc1.XkX8nQ.zIbdXa9g2Ezv3Lpm39-IWqA5i-k' # for the discord server
 bot = commands.Bot(command_prefix = '.')
 
 api_url = "http://api.weatherstack.com/current?access_key=96b61cb41acaad6fe3b5d8b31465a586&query=vancouver"
